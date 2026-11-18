@@ -1,0 +1,14 @@
+#Ambiente virtual
+venv/
+.venv/
+
+#Variaveis sensiveis e senhas
+.env
+
+#Dados locais (Nao subir planilhas/XMLs com dados reais para o Github)
+data/
+
+#Cache do python e configuracoes locais do editor
+__pycache__/
+*.py[cod]
+.vscode/
